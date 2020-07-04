@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script src="js/pruebas.js"></script>
+
+
+    <style type="text/css">
+    
+    #texto{
+        border: 2px solid red;
+        /* height: 200px; */
+    }
+
+    #vermensaje{
+        display: none;
+        padding: 5px;
+        border-radius: 5px;
+
+    }
+
+    #resultadoCalculo{
+        font-size: 22px;
+        color: blue;
+        font-weight: bold;
+    }
+
+    label{
+        width: 130px;
+        display: inline-block;
+    }
+    
+    </style>
+
+</head>
+<body>
+
+    <div id="texto">
+
+    </div>
+
+    <br>
+
+    <button type="button" onclick="mostrar()">Mostrar</button>
+
+    <button type="button" onclick="ocultar()">Ocultar</button>
+
+    <hr>
+    <br>
+    <div id="vermensaje">
+        Detalle del mensaje
+    </div>
+<br>
+<button type="button" onclick="verMensaje(1)">Mensaje éxito</button>
+
+<button type="button" onclick="verMensaje(0)">Mensaje error</button>
+
+
+    <hr>
+
+    <label  >Primer número: </label>
+        <input type="text" id="txtNumeroA" name="txtNumeroA" /><br>
+        <label  >Segundo número: </label>
+        <input type="text" id="txtNumeroB" name="txtNumeroB" /><br>
+        <label  >Operación: </label>
+        <select id="cmbOperador">
+            <option value="">--Seleccione--</option>
+            <option value="+">Sumar</option>
+            <option value="-">Restar</option>
+        </select><br>
+        
+        <div id="resultadoCalculo">
+            Resultado: <span id="resultadoOperacion">0</span>
+        </div>
+        <br>
+        <label  > </label>
+        <button type="button" onclick="calcular()">Calcular</button>
+
+
+        <hr>
+
+
+
+    <div id="midiv">
+        <h1>Hola</h1>
+    </div>
+
+    <form action="formularios.html" method="POST" id="formu" class="form-style"  >
+
+
+        <label for="txtUsuario">Usuario: </label>
+        <input type="text" id="txtUsuario" name="txtUsuario" /><br>
+        <label for="txtClave">Contraseña: </label>
+        <input type="password" id="txtClave" name="txtClave" /><br>
+        <!-- <button type="button" >Boton1</button> -->
+        <input type="submit" value="Ingresar">
+
+
+
+     </form>
+
+    
+</body>
+</html>
