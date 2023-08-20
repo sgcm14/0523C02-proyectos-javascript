@@ -1,7 +1,7 @@
 /*Array inverso
 En este ejercicio deberás crear una función que devuelva un array con sus elementos
 invertidos, sin modificarlo. Luego, deberás hacer una función que lo modifique e invierta
-el orden de sus elementos.*/
+el orden de sus elementos. */
 
 /*1. Creá la función imprimirInverso que tome un array como argumento y que
 imprima en la consola cada elemento en orden inverso (no tenés que invertir el

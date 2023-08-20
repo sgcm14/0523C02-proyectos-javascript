@@ -1,6 +1,9 @@
-# Empezando en javascript
+Programación Imperativa
+=============
+- Este proyecto lo estoy realizando dentro del curso **Programación Imperativa** de la carrera [Certified Tech Developer](https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer "Certified Tech Developer").
+- También hay otros proyectos mas.
 
-Proyecto usando Javascript
+- **Periodo :** Julio - Setiembre 2023
 
 > En este proyecto se practican muchas funcionalidades de Javascript
 

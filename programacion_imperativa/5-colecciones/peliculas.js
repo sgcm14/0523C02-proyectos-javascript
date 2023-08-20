@@ -5,7 +5,7 @@ Para esto, deberás:*/
 /*1. Crear la estructura adecuada para guardar las siguientes películas:
 "star wars", "totoro", "rocky", "pulp fiction", "la vida es bella"
 Importante: verificá que todo funciona correctamente accediendo a alguna de
-las películas una vez creada la estructura correspondiente.*/
+las películas una vez creada la estructura correspondiente. */
 let peliculas = ["star wars", "totoro", "rocky", "pulp fiction", "la vida es bella"];
 
 console.log('la película: ',peliculas[1])

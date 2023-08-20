@@ -4,7 +4,7 @@ strings de 4 elementos y simule el comportamiento del método Array.join().
 Importante: no podés usar el método Array.join() original.
 Ejemplo:
 ● join(["h","o","l","a"]) debe retornar el string "hola".
-● join(["c","h","a,"u"]) debe retornar el string "chau".*/
+● join(["c","h","a,"u"]) debe retornar el string "chau". */
 
 function join(array) {
   if (array.length === 4) {
