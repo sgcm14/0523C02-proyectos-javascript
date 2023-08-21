@@ -1,8 +1,3 @@
-const prompt = require("prompt-sync")({ sigint: true });
-let nombre = prompt("Ingrese su nombre: ");
-console.log(`Hola ${nombre}!!!`);
-
-
 /*Imprimir en consola la comparación de nuestra variable cantidad de vidas restante con el valor 0.*/
 const cantidadVidas=3;
 let resultado= cantidadVidas==0
