@@ -22,7 +22,7 @@
 12. Solicita al usuario ingresar una cantidad de números determinada por n, luego solicita al usuario ingresar esos números uno por uno y finalmente calcula la suma de esos números y la muestra en el navegador.
 13. Tabla de sumar de un número ingresado
 14. Leer un número y mostrar por la salida estándar si dicho número es o no es par.
-15. Leer un número y mostrar su tabla de multiplicar.*
+15. Leer un número y mostrar su tabla de multiplicar.
 16. Leer una secuencia de números, hasta que se introduce un número negativo y mostrar la suma de dichos números.
 17. Leer dos números y realizar el producto mediante sumas.
 18. Leer una secuencia de números y mostrar su producto, el proceso finalizará cuando el usuario pulse a la tecla F.
@@ -33,7 +33,7 @@
 23. Leer una secuencia de números y sumar solo los pares mostrando el resultado del proceso.
 24. Leer una secuencia de números y mostrar los 30 primeros pares leídos.
 25. Leer una secuencia de números y mostrar la suma de los 30 números que ocupan posiciones de lectura par.
-26. Leer un número y determinar si es o no es primo.
+26. Leer un número y determinar si es o no es primo.*
 27. Leer una secuencia de 30 números y mostrar la suma de los primos.
 28. Dado una secuencia de números determinar el mayor leído y el número de veces que aparece.
 29. Dado una secuencia de palabras determinar el mayor y menor lexicográficamente.
