@@ -33,7 +33,7 @@
 23. Leer una secuencia de números y sumar solo los pares mostrando el resultado del proceso.
 24. Leer una secuencia de números y mostrar los 30 primeros pares leídos.
 25. Leer una secuencia de números y mostrar la suma de los 30 números que ocupan posiciones de lectura par.
-26. Leer un número y determinar si es o no es primo.*
+26. Leer un número y determinar si es o no es primo.
 27. Leer una secuencia de 30 números y mostrar la suma de los primos.
 28. Dado una secuencia de números determinar el mayor leído y el número de veces que aparece.
 29. Dado una secuencia de palabras determinar el mayor y menor lexicográficamente.
