@@ -21,8 +21,10 @@ números. La matriz debe verse así:
 
 3) Por último, vamos a generar dos funciones:
 
+![](https://raw.githubusercontent.com/sgcm14/0523C02-proyectos-javascript/master/programacion_imperativa/11-matrices/matriz.png)
+
     a) Una va a sumar los valores en la diagonal marcada en rojo.
-    
+
     b) La otra va a marcar los valores de la diagonal marcada en verde.
     Ambas funciones deben devolver un resultado único.
 
