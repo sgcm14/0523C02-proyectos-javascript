@@ -1,6 +1,7 @@
 # Ejercitación de bubble sort
 Utilizá Bubble Sort para todos los ejercicios.  
 
+## Parte I
 
 1) Ordenar una colección de personas por una propiedad
 Considerando la colección de personas que te presentamos en la demostración anterior, te proponemos el siguiente desafío:
@@ -78,7 +79,24 @@ const letras = [“C”, “A”, “D”, “E”, “H”, “Z”, “J”, �
 
     b. Desarrollar una función que ordene internamente de forma ascendente según la edad del titular de cada cuenta, la misma deberá retornar él array ordenado.
 
+## Parte II
 
+**Ejercicio 1**
+
+  En un concurso de fotografía, donde los usuarios publican una fotografía y obtienen likes, se registra la cantidad de likes obtenidos por cada usuario en un array.
+
+  Ordenar los valores para poder indicar cuál fue la mayor cantidad de likes obtenidos, cuánto obtuvo el segundo, cuánto el tercero y cuánto el que menos likes obtuvo —suponer que participaron 15 usuarios y suponer para cada uno, una cantidad de likes—.
+
+
+**Ejercicio 2**
+
+  El servicio meteorológico, para llevar el control diario de temperatura, utiliza un objeto temperatura donde registra día —valor numérico del día—, mes —valor numérico—, temperatura máxima y temperatura mínima, correspondiente a dicho día. 
+
+  Las temperaturas —objeto temperatura— están cargados en un array.
+
+  a) Ordenar por temperatura mínima de menor a mayor.
+
+  b) Ordenar por temperatura máxima de mayor a menor.
 
 **Realizado por :** Sammy Gigi Cantoral Montejo (sgcm14)
 
